@@ -108,3 +108,16 @@ a.btn {
     border: black solid;
     border-width: 3px;
 }
+
+img#storephoto {
+
+    width: 500px;
+    height: auto;
+}
+
+div#Productionproduce {
+    /* border: black solid; */
+    border-width: 3px;
+    height: 500px;
+    background-color: rgba(124, 180, 253, 0.911);
+}
